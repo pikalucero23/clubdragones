@@ -1,0 +1,5 @@
+{
+  "name": "Club Finance AI Dashboard",
+  "description": "An intuitive and powerful finance control panel for a football club, featuring an integrated AI assistant (Gemini) that understands natural language to perform administrative tasks.",
+  "requestFramePermissions": []
+}
